@@ -38,11 +38,13 @@ static char *fonts[] =
 static const char *fonts[] =
 #endif // XRESOURCES_PATCH
 {
-	"MesloLGS NF:style=Regular:size=12",
-	"FontAwesome:style=Regular:size=12",
-	"icomoon:style=Regular:size=12",
-	"Pomodoro:style=Regular:size=12",
-	"octicons:style=Medium:size=12",
+	"Noto Color Emoji:style=Regular:size=14",
+	"MesloLGS NF:style=Regular:size=14",
+  "JoyPixels:pixelsize=14:antialias=true:autohint=true",
+	"FontAwesome:style=Regular:size=14",
+	"icomoon:style=Regular:size=14",
+	"Pomodoro:style=Regular:size=14",
+	"octicons:style=Medium:size=14",
 	"monospace:size=12"
 };
 #endif // PANGO_PATCH
